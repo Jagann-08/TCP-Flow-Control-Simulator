@@ -83,7 +83,7 @@ Then:
 
 ### Network Topology
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](topology.png)
 
 ### TCP Simulation
 

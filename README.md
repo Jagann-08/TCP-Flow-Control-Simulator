@@ -87,16 +87,16 @@ Then:
 
 ### TCP Simulation
 
-![TCP Simulation](screenshots/tcp_simulation1.png)
+![TCP Simulation](tcp_simulation1.png)
 
 ### Python GUI Simulator
 
-![Python GUI Simulator](screenshots/gui_simulation.png)
+![Python GUI Simulator](gui_simulation.png)
 
 ### python TCP simulator1
 
 
-![Python TCP Simulator1](screenshots/tcp_simulation1.png)
+![Python TCP Simulator1](tcp_simulation1.png)
 ## How to Run
 
 Open Command Prompt inside the project folder and run:

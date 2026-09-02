@@ -79,6 +79,32 @@ Then:
 
 9 10 11 12
 
+## Screenshots
+
+### Network Topology
+
+![Network Topology](screenshots/topology.png)
+
+### TCP Simulation
+
+![TCP Simulation](screenshots/tcp_simulation1.png)
+
+### Python GUI Simulator
+
+![Python GUI Simulator](screenshots/gui_simulation.png)
+
+### python TCP simulator1
+
+
+![Python TCP Simulator1](screenshots/tcp_simulation1.png)
+## How to Run
+
+Open Command Prompt inside the project folder and run:
+
+```bash
+python tcp_sliding_window.py
+
+
 ## How to Run
 
 Open Command Prompt inside the project folder and run:
